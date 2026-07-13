@@ -5,6 +5,7 @@
 - You can also download the necessary setup tools here
   - [UTOC Signature Bypass - NexusMods](https://www.nexusmods.com/marvelrivals/mods/2940)
 - Please Note: I have my Marvel Rivals game files on my C drive, but the letter/location may change depeding on where you installed it/how many drives you have
+- Lastly, I am not responsible for any bans/suspensions caused by using mods in game, mods are not bannable but just use this wisely. 
 # Instructions 
 - Follow these instructions directly to ensure that the mod installation process is as smooth as possible 
 # Step 1:
